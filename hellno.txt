@@ -1,0 +1,3 @@
+bir şeyler
+
+merhaba_dünya("Ekrana yaz");
