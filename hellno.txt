@@ -1,3 +1,9 @@
 bir şeyler
 
 merhaba_dünya("Ekrana yaz");
+
+güncellemeler
+
+geliştirmeler
+
+kodlar kodlarbir sürü kodlar
